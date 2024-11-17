@@ -1,3 +1,5 @@
+---
+
 # software-engineer
 
 Welcome to **software-engineer** – a distinguished repository documenting my journey through optimized Java solutions, best practices, and design patterns for crafting efficient, scalable applications. Drawing insights from my experience, this repository offers high-quality solutions designed to help developers build robust software systems.
@@ -22,7 +24,7 @@ Welcome to **software-engineer** – a distinguished repository documenting my j
 
 ---
 
-## Why This Repo Exists
+## Why This Repository Exists
 
 This repository is both a **learning archive** and a **resource** for developers interested in enhancing their Java skills. It reflects my real-world experience, particularly in building large-scale, performance-oriented software solutions at a leading product-based company. The code here is reusable and adheres to professional software engineering standards.
 
@@ -49,3 +51,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ### Happy Coding!
+
+---
