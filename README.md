@@ -9,16 +9,6 @@ Welcome to **software-engineer** – a distinguished repository documenting my j
 ## 🚀 Key Highlights
 
 - **Optimized Java Solutions**: Code snippets showcasing industry best practices and efficient designs for building high-performance Java applications.
-- **Java & PostgreSQL**: Advanced integrations for seamless and optimized data handling with PostgreSQL in Java.
-- **Spring Framework**: Real-world, production-ready examples for building enterprise-grade applications using the Spring Framework.
-- **Spring Boot (Web Service & Microservices)**: Practical solutions for creating scalable web applications and microservices with Spring Boot.
-- **Spring MVC**: Best practices for building flexible and maintainable web applications using the Spring MVC framework.
-- **Spring Security**: Solutions for implementing robust authentication and authorization mechanisms in Java-based applications.
-- **Data Structures & Algorithms**: Optimized solutions to common programming challenges using advanced data structures and algorithms.
-- **Design Principles & Patterns**: Scalable and maintainable architecture implementations following industry-standard design principles and patterns.
-- **System Design**: High-performance, scalable system architectures, emphasizing reliability and performance at scale.
-
-- **Optimized Java Solutions**: Code snippets showcasing industry best practices and efficient designs for building high-performance Java applications.
 - **Java**: Advanced techniques and optimized solutions for core Java development.
 - **PostgreSQL**: Integrations and strategies for efficient and optimized data handling with PostgreSQL.
 - **Spring Framework**: Real-world, production-ready examples for building enterprise-grade applications using the Spring Framework.
