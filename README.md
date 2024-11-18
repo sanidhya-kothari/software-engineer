@@ -8,8 +8,6 @@ Welcome to **software-engineer** – a distinguished repository documenting my j
 
 ## Key Highlights
 
-## 🚀 Key Highlights
-
 - **Optimized Java Solutions**: Code snippets showcasing industry best practices and efficient designs for building high-performance Java applications.
 - **Java**: Advanced techniques and optimized solutions for core Java development.
 - **PostgreSQL**: Integrations and strategies for efficient and optimized data handling with PostgreSQL.
@@ -26,7 +24,7 @@ Welcome to **software-engineer** – a distinguished repository documenting my j
 
 ## Why This Repository Exists
 
-This repository is both a **learning archive** and a **resource** for developers interested in enhancing their Java skills. It reflects my real-world experience, particularly in building large-scale, performance-oriented software solutions at a leading product-based company. The code here is reusable and adheres to professional software engineering standards.
+This repository is both a **learning archive** and a **resource** for developers interested in enhancing their Java skills. It reflects my real-world experience, particularly in building large-scale, performance-oriented software solutions. The code here is reusable and adheres to professional software engineering standards.
 
 ---
 
