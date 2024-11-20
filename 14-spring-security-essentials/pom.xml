@@ -101,5 +101,6 @@
 
 	<modules>
 		<module>01-spring-boot-security-jwt-symmetric-key</module>
+		<module>02-spring-boot-security-jwt-asymmetric-key</module>
 	</modules>
 </project>
