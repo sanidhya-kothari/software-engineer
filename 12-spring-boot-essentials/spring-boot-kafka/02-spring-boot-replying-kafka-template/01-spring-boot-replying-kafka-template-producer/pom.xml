@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	
+	<modelVersion>4.0.0</modelVersion>
+	
+	<parent>
+		<groupId>softwareengineer.springboot.essentials</groupId>
+		<artifactId>02-spring-boot-replying-kafka-template</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<relativePath></relativePath>
+	</parent>
+	
+	<artifactId>01-spring-boot-replying-kafka-template-producer</artifactId>
+	<packaging>jar</packaging>
+	
+	<name>01-spring-boot-replying-kafka-template-producer</name>
+	<description>learn spring boot replying kafka template producer</description>
+	
+	<properties>
+		<java.version>17</java.version>
+	</properties>
+	
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>
