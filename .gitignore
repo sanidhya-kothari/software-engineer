@@ -1,9 +1,123 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.externalToolBuilders/
+*.launch
+*.pydevproject
+.cproject
+.factorypath
+.buildpath
+.target
+.tern-project
+.texlipse
+.springBeans
+.cache-main
+.scala_dependencies
+.worksheet
+.project
+.classpath
+
+### Maven ###
+.mvn/
+mvnw
+mvnw.cmd
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
 ### IntelliJ IDEA ###
+.idea
+.idea/*
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+dist/
+.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Gradle ###
+.gradle/
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+### Spring Boot DevTools (if using) ###
+.spring-boot-devtools/
+
+### Database Files (e.g., H2) ###
+*.h2.db
+*.db
+*.sqlite
+
+### Operating System Specific Files ###
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+### IntelliJ IDEA (from File-2) ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-### Eclipse ###
+### Eclipse (from File-2) ###
 .apt_generated
 .classpath
 .factorypath
@@ -15,31 +129,28 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
-### NetBeans ###
+### NetBeans (from File-2) ###
 /nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+.nb-gradle/
 
-### VS Code ###
+### VS Code (from File-2) ###
 .vscode/
 
-### Mac OS ###
+### Mac OS (from File-2) ###
 .DS_Store
 
-# Project exclude paths
+# Project exclude paths (from File-2)
 /_00__Basic_Concepts/target/
 /_01__Create_Beans_Inside_Spring_Context/target/
 /_02__Wiring_Beans_Using_Annotation/target/
 
-# Maven build artifacts
+# Maven build artifacts (from File-2)
 **/target/
 dependency-reduced-pom.xml
 build/
 pom.xml.*
 
-# IDE-specific files
+# IDE-specific files (from File-2)
 /.project
 /.classpath
 /.settings/
@@ -48,7 +159,7 @@ pom.xml.*
 .vscode/
 /.metadata/
 
-# Logs and temp files
+# Logs and temp files (from File-2)
 *.log
 *.tmp
 *.swp
@@ -56,7 +167,7 @@ pom.xml.*
 npm-debug.log
 yarn-error.log
 
-# Java build artifacts
+# Java build artifacts (from File-2)
 *.class
 *.jar
 *.war
@@ -65,11 +176,11 @@ yarn-error.log
 *.tar.gz
 *.rar
 
-# React build artifacts
+# React build artifacts (from File-2)
 /build
 /node_modules/
 package-lock.json
 yarn.lock
 
-# Local environment files
+# Local environment files (from File-2)
 .env
